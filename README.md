@@ -9,7 +9,8 @@ Hi, I'm Kostya, a Python Developer 🚀 from Belarus, I develop telegram bots du
   </a>
 </h4>
 <h3>
-    
+
+<h4> Stack </h4>
 ```python
 ​
 from dataclasses import dataclass
