@@ -1,7 +1,11 @@
 <h3> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
 
-Hi, I'm Kostya, a Python Developer 🚀 from Belarus, I develop telegram bots during school break
+Hi, I'm Kostya, a Python Developer 🚀 from Belarus, I'm currently working on [aiogram template](https://github.com/0Kit/aiogram_template).
+
+I develop telegram bots during school break
+
+
 
 <h4> I'm in telegram: 
   <a href="https://t.me/Forzend">
