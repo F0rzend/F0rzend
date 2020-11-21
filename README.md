@@ -30,5 +30,5 @@ Hi, I'm Kostya, a Python Developer 🚀 from Belarus, I develop telegram bots du
 
 <h3> 📈 My GitHub Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=0Kit&show_icons=true&theme=gotham" alt="0Kit">
+<img src="https://github-readme-stats.vercel.app/api?username=0Kit&show_icons=true&theme=gotham" alt="0Kit" width="100%" >
 
