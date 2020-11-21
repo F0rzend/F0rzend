@@ -29,16 +29,11 @@ class Stack:
 
 📈 My GitHub Stats
 
-<div align="center" style="
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center; 
-">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/0Kit/0Kit/blob/main/code.gif" style="flex: 0 0 25%;">
-    <img src="https://github.com/0Kit/0Kit/raw/main/code.gif" style="max-width:100%;">
+<div>
+  <a align="left" href="https://github.com/0Kit/0Kit/blob/main/code.gif">
+    <img align="right" src="https://github.com/0Kit/0Kit/raw/main/code.gif" style="max-width:100%;">
   </a>
-  <a target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=0Kit&show_icons=true&theme=gotham" alt="0Kit" data-canonical-src="https://github-readme-stats.vercel.app/api?username=0Kit&amp;show_icons=true&amp;theme=gotham" style="max-width:100%;">
+  <a align="right" >
+    <img src="https://github-readme-stats.vercel.app/api?username=0Kit&show_icons=true&theme=gotham" alt="0Kit">
   </a>
 </div>
