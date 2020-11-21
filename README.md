@@ -28,5 +28,7 @@ class Stack:
 
 
 📈 My GitHub Stats
-
+<div>
+<img max-width="400" src="https://github.com/0Kit/0Kit/blob/main/code.gif" />
 <img src="https://github-readme-stats.vercel.app/api?username=0Kit&show_icons=true&theme=gotham" alt="0Kit" />
+</div>
