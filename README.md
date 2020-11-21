@@ -1,5 +1,6 @@
-<h3> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+<h3> Hey there ✋</h3>
 
+![](https://img.shields.io/github/followers/0Kit?style=social)
 
 Hi, I'm Kostya, a Python Developer 🚀 from Belarus, I'm currently working on [aiogram template](https://github.com/0Kit/aiogram_template).
 
@@ -7,11 +8,9 @@ I develop telegram bots during school break
 
 
 
-<h4> I'm in telegram: 
-  <a href="https://t.me/Forzend">
-    <img alt="Kostya's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-  </a>
-</h4>
+<h4> I'm in telegram: </h4>
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/Forzend)
   
 <div>
 
