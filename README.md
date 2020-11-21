@@ -3,10 +3,11 @@
 
 Hi, I'm Kostya, a Python Developer 🚀 from Belarus, I develop telegram bots during school break
 
-I'm in telegram <a href="https://t.me/Forzend">
-  <img alt="Kostya's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
+<h4> I'm in telegram: 
+  <a href="https://t.me/Forzend">
+    <img alt="Kostya's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  </a>
+</h4>
 <h3>
     
 ```python
