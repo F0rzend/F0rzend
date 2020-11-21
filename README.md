@@ -10,12 +10,6 @@ Hi, I'm Kostya, a Python Developer 🚀 from Belarus, I develop telegram bots du
 </h4>
   
 <div>
-  
-  
-  <a align="right" href="https://github.com/0Kit/0Kit/blob/main/code.gif">
-    <img align="right" src="https://github.com/0Kit/0Kit/raw/main/code.gif" width="40%">
-  </a>
-
 
   <h3> Stack </h3>
 
