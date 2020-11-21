@@ -3,7 +3,24 @@
 
 Hi, I'm Kostya, a Python Developer 🚀 from Belarus, currently, I develop telegram bots during school break
 
+<h3>
+    
+```python
+​
+from dataclasses import dataclass
+
+
+@dataclass
+class Stack:
+    languages   : tuple = ("Python", "Bash")
+    databases   : tuple = ("PostgreSQL", "Redis")
+    misc        : tuple = ("Docker", "poetry")
+    ongoing     : tuple = ("aiogram")
+​
+```
+</h3>
+
+
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=0Kit&show_icons=true&theme=gotham" alt="0Kit" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=0Kit&show_icons=true&theme=gotham" alt="0Kit" />
