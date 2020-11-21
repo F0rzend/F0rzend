@@ -4,8 +4,9 @@
 Hi, I'm Kostya, a Python Developer 🚀 from Belarus, currently, I develop telegram bots during school break
 
 👀 Contact with me
+
 <a href="https://t.me/Forzend">
-  <img align="left" alt="Kostya's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img alt="Kostya's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
 <h3>
