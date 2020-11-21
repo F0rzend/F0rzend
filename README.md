@@ -27,6 +27,7 @@ class Stack:
 ```
 </h3>
 
+📈 My GitHub Stats
 
 <div align="center" style="
     display: flex;
@@ -40,10 +41,4 @@ class Stack:
   <a target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=0Kit&show_icons=true&theme=gotham" alt="0Kit" data-canonical-src="https://github-readme-stats.vercel.app/api?username=0Kit&amp;show_icons=true&amp;theme=gotham" style="max-width:100%;">
   </a>
-</div>
-
-📈 My GitHub Stats
-<div align="center">
-  <img max-width="400" src="https://github.com/0Kit/0Kit/blob/main/code.gif" />
-  <img src="https://github-readme-stats.vercel.app/api?username=0Kit&show_icons=true&theme=gotham" alt="0Kit" />
 </div>
