@@ -3,37 +3,35 @@
 
 Hi, I'm Kostya, a Python Developer 🚀 from Belarus, I develop telegram bots during school break
 
-<h4> I'm in telegram: 
-  <a href="https://t.me/Forzend">
-    <img alt="Kostya's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-  </a>
-</h4>
-<h3>
+<a align="right" href="https://github.com/0Kit/0Kit/blob/main/code.gif">
+  <img align="right" src="https://github.com/0Kit/0Kit/raw/main/code.gif" width="40%">
+</a>
 
-<h4> Stack </h4>
+<div>
+  <h4> I'm in telegram: 
+    <a href="https://t.me/Forzend">
+      <img alt="Kostya's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+    </a>
+  </h4>
 
-```python
-​
-from dataclasses import dataclass
+  <h4> Stack </h4>
 
-
-@dataclass
-class Stack:
-    languages   : tuple = ("Python", "Bash")
-    databases   : tuple = ("PostgreSQL", "Redis")
-    misc        : tuple = ("Docker", "poetry")
-    ongoing     : tuple = ("aiogram")
-​
-```
-</h3>
+  ```python
+  ​
+  from dataclasses import dataclass
+  
+  
+  @dataclass
+  class Stack:
+      languages   : tuple = ("Python", "Bash")
+      databases   : tuple = ("PostgreSQL", "Redis")
+      misc        : tuple = ("Docker", "poetry")
+      ongoing     : tuple = ("aiogram")
+  ​
+  ```
+</div>
 
 📈 My GitHub Stats
 
-<div>
-  <a align="left" href="https://github.com/0Kit/0Kit/blob/main/code.gif">
-    <img align="right" src="https://github.com/0Kit/0Kit/raw/main/code.gif" style="max-width:100%;">
-  </a>
-  <a align="right" >
-    <img src="https://github-readme-stats.vercel.app/api?username=0Kit&show_icons=true&theme=gotham" alt="0Kit">
-  </a>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=0Kit&show_icons=true&theme=gotham" alt="0Kit">
+
