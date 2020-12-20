@@ -1,6 +1,6 @@
 <h3> Hey there ✋</h3>
 
-![](https://img.shields.io/github/followers/0Kit?style=social)
+![](https://img.shields.io/github/followers/F0rzend?style=social)
 
 Hi, I'm Kostya, a Python Developer 🚀 from Belarus, I'm currently working on [aiogram template](https://github.com/0Kit/aiogram_template).
 
@@ -33,5 +33,8 @@ I develop telegram bots during school break
 
 <h3> 📈 My GitHub Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=0Kit&show_icons=true&theme=gotham" alt="0Kit" width="100%" >
+<img src="https://github-readme-stats.vercel.app/api?username=F0rzend&show_icons=true&theme=gotham" alt="F0rzend" width="100%" >
 
+<h3> 🤑 Donations </h3>
+
+<b>QIWI:</b> https://qiwi.com/n/GROTH324
