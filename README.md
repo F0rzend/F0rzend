@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/followers/F0rzend?style=social)
 
-Hi, I'm Kostya, a Python Developer 🚀 from Belarus, I'm currently working on [aiogram template](https://github.com/0Kit/aiogram_template).
+Hi, I'm Kostya, a Python Developer 🚀 from Belarus, I'm currently working on [aiogram-template](https://github.com/0Kit/aiogram-template) and [aiohttp_forms](https://github.com/F0rzend/aiohttp_forms).
 
 I develop telegram bots during school break
 
