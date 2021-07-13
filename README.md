@@ -8,6 +8,7 @@ I develop telegram bots during school break, btw 😅
 
 
 <h4> You can contact me via telegram </h4>
+  
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/F0rzend)
 
 <div>
@@ -37,4 +38,5 @@ I develop telegram bots during school break, btw 😅
 <h3> 🤑 Donations </h3>
 
 <b>QIWI:</b> https://qiwi.com/n/GROTH324
-<b>Visa CardЖ </b> 4255190123515325
+  
+<b>Visa Card: </b> 4255190123515325
