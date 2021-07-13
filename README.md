@@ -2,7 +2,9 @@
 <h1>F0rzend</h1>
 
 Hi, I'm Kostya, a Python Developer 🚀 from Belarus, I'm currently working on close projects. But you can take a look at my <a href="https://github.com/F0rzend/aiogram_broadcaster">aiogram_broadcaster<a> library.
-
+  
+If you know Russian, you can also read about me in <a href="https://t.me/forzend">my telegram channel</a>
+  
 I develop telegram bots during school break, btw 😅
 
 
