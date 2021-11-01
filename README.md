@@ -17,14 +17,17 @@ I develop telegram bots during school break, btw 😅
 
   <h3> Current Stack </h3>
 
-  ```Go  
-  Stack := {
-    "languages": ["Python", "GoLang", "Bash"],
-    "databases": ["PostgreSQL", "Redis"],
-    "deployment": ["Docker", "docker-compose", "systemd"],
-    "ongoing": ["aiogram", "FastAPI"],
-    "other": ["aiohttp", "html parsing skills", "sqlalchemy"],
-  }
+  ```python
+  from dataclasses import dataclass
+  
+  
+  @dataclass
+  class Stack:
+      languages: tuple = "Python", "GoLang", "Bash",
+      databases: tuple = "PostgreSQL", "Redis",
+      deployment: tuple = "Docker", "docker-compose", "systemd", "GitHub actions",
+      ongoing: tuple = "aiogram", "FastAPI",
+      other: tuple = "aiohttp", "html parsing skills", "sqlalchemy[asyncpg]",
   ```
 </div>
 
