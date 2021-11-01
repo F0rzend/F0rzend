@@ -1,7 +1,7 @@
 <h3> Hey there ✋</h3>
 <h1>F0rzend</h1>
 
-Hi, I'm Kostya, a Python Developer 🚀 from Belarus, I'm currently working on close projects. But you can take a look at my <a href="https://github.com/F0rzend/aiogram_broadcaster">aiogram_broadcaster<a> library.
+Hi, I'm Kostya, a Python Developer 🚀 from Belarus, I'm currently working on <a href="https://github.com/F0rzend/TelegramBot">TelegramBot</a>. You also can take a look at my <a href="https://github.com/F0rzend/aiogram_broadcaster">aiogram_broadcaster<a> library.
   
 If you know Russian, you can also read about me in <a href="https://t.me/forzend">my telegram channel</a>
   
@@ -17,19 +17,14 @@ I develop telegram bots during school break, btw 😅
 
   <h3> Current Stack </h3>
 
-  ```python
-  ​
-  from dataclasses import dataclass
-  
-  
-  @dataclass
-  class Stack:
-      languages: tuple = "Python", "Bash",
-      databases: tuple = "PostgreSQL", "Redis",
-      deployment: tuple = "Docker", "systemd",
-      ongoing: tuple = "aiogram",
-      other: tuple = "aiohttp basics", "html parsing skills", "pydantic",
-  ​
+  ```Go  
+  Stack := {
+    "languages": ["Python", "GoLang", "Bash"],
+    "databases": ["PostgreSQL", "Redis"],
+    "deployment": ["Docker", "docker-compose", "systemd"],
+    "ongoing": ["aiogram", "FastAPI"],
+    "other": ["aiohttp", "html parsing skills", "sqlalchemy"],
+  }
   ```
 </div>
 
