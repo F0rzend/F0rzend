@@ -1,7 +1,7 @@
 <h3> Hey there ✋</h3>
 <h1>F0rzend</h1>
 
-Hi, I'm Kostya, a Python Developer 🚀 from Belarus, I'm currently working on <a href="https://github.com/F0rzend/TelegramBot">TelegramBot</a>. You also can take a look at my <a href="https://github.com/F0rzend/aiogram_broadcaster">aiogram_broadcaster<a> library.
+Hi, I'm Kostya, a Python Developer 🚀 from Belarus, I'm currently working on <a href="https://github.com/F0rzend/SimpleGoWebserver">SimpleGoWebserver</a>. You also can take a look at my <a href="https://github.com/F0rzend/aiogram_broadcaster">aiogram_broadcaster<a> library.
   
 If you know Russian, you can also read about me in <a href="https://t.me/forzend">my telegram channel</a>
   
