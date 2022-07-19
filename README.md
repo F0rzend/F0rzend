@@ -1,4 +1,4 @@
-![](https://github.com/F0rzend/F0rzend/header.png)
+![](https://github.com/F0rzend/F0rzend/blob/main/header.png)
 
 <h3> Hey there ✋</h3>
 <h1>F0rzend</h1>
