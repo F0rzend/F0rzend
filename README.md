@@ -3,7 +3,9 @@
 <h3> Hey there ✋</h3>
 <h1>F0rzend</h1>
 
-Hi, I'm Kostya, a Python Developer 🚀 from Belarus, I'm currently working on <a href="https://github.com/F0rzend/SimpleGoWebserver">SimpleGoWebserver</a>.
+Hi, I'm Kostya, a Backend Developer 🚀 from Belarus, I'm currently working on <a href="https://github.com/F0rzend/SimpleGoWebserver">SimpleGoWebserver</a>.
+
+I work on GoLang and Python.
 
 If you know Russian, you can also read about me in <a href="https://t.me/forzend">my telegram channel</a> 
 
