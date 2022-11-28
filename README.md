@@ -13,8 +13,3 @@ If you know Russian, you can also read about me in <a href="https://t.me/forzend
 <h4> You can contact me via telegram </h4>
   
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/F0rzend)
-
-
-<h3> 📈 My GitHub Stats</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=F0rzend&show_icons=true&theme=gotham" alt="F0rzend" width="100%" >
