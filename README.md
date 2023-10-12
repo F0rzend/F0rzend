@@ -13,3 +13,4 @@ If you know Russian, you can also read about me in <a href="https://t.me/forzend
 <h4> You can contact me via telegram </h4>
   
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/F0rzend)
+[![An image of @f0rzend's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/f0rzend)](https://holopin.io/@f0rzend)
